@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">aplikasi_thoukhan</string>
+
+    <string name="text_view">MUHAKMAl</string>
+    <string name="iniJudul">inijudul</string>
+    <string name="iniSubJudul">inisubjudul</string>
+    <string name="todo">todo</string>
+    <string name="nama">nama:muhammad akmal ahsan</string>
+    <string name="emial">Email:muhakmal557@gmail.com</string>
+    <string name="asal">asal:pare pare(sulawesi selatan)</string>
+    <string name="sekolah">sekolah:IDN BOADING SCHOOL(jonggol)</string>
+
+    <string name="enjoy">ENJOY</string>
+
+</resources>
